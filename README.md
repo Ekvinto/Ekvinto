@@ -12,6 +12,18 @@ I am a computer scientist with a Bachelor in Electrical Engineering from the Uni
 
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5565046/ekvinto)
 
+[<img align="left" alt="xing" src="https://img.shields.io/badge/xing-0698A0?logo=xing&logoColor=white&style=for-the-badge" />](https://www.xing.com/profile/Adnan_Arnautovic2/cv)
+
+[<img align="left" alt="researchgate" src="https://img.shields.io/badge/researchgate-0cb?logo=researchgate&logoColor=white&style=for-the-badge" />](https://www.researchgate.net/profile/Adnan-Arnautovic)
+
+[<img align="left" alt="google-scholar" src="https://img.shields.io/badge/google%20scholar-aaa?logo=google-scholar&logoColor=white&style=for-the-badge" />](https://scholar.google.com/citations?user=VEDiEE4AAAAJ&hl=en)
+
+<!--
+
+[<img align="left" alt="ieee-collabratec" src="https://img.shields.io/badge/IEEE%20Collabratec-016699?logo=ieee&logoColor=white&style=for-the-badge" />](LINK)
+
+-->
+
 <br>
 <br>
 <!--
