@@ -28,7 +28,8 @@ I am a computer scientist with a Bachelor in Electrical Engineering from the Uni
 ## Medium stories
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Infobip WebRTC — A Quick Setup &amp; Test Guide](https://medium.com/infobipdev/infobip-web-rtc-a-quick-setup-test-guide-d9672d1f328e?source=rss-2831cbd6cad4------2)
+- [Could technology take away your freedom?](https://medium.com/infobipdev/could-technology-take-away-your-freedom-14a188697f5f?source=rss-2831cbd6cad4------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
