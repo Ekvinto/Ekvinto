@@ -24,6 +24,13 @@ I am a computer scientist with a Bachelor in Electrical Engineering from the Uni
 
 <br>
 <br>
+
+## Medium stories
+
+<!-- BLOG-POST-LIST:START -->
+ 
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 ## Expertise
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
