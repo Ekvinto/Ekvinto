@@ -3,10 +3,15 @@ I am a computer scientist with a Bachelor in Electrical Engineering from the Uni
 - 🔭 I'm currently working at Infobip as a software engineer, mostly on Java Spring services
 - 👯 I’m always looking to collaborate on papers and projects from various areas: Probability and Statistics, Discrete Mathematics, Operations Research, Embedded Systems, Smart Cities, and Data Analysis
 <br>
+
 ## Connect with me
+
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/adnan-arnautovic/)
+
 [<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@adnan.arnautovic)
+
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/5565046/ekvinto)
+
 <br>
 <br>
 <!--
